@@ -1,3 +1,3 @@
-## Burada makine öğrenmesi algoritmaları , metrikleri vb tool kullarak projeler yapıyorum .
+## Burada makine öğrenmesi ve derin öğrenme algoritmaları , metrikleri vb tool kullarak projeler yapıyorum .
 ---
-## change Here I do projects using machine learning algorithms, metrics etc. tools.
+## Here I do projects using machine learning and deep learning algorithms, metrics etc. tools.
