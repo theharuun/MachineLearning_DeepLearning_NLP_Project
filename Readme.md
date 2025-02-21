@@ -1,3 +1,4 @@
+# [TR]
 # Makine Öğrenimi & Derin Öğrenme Projesi
 
 ## 📌 Proje Genel Bakış
@@ -79,6 +80,7 @@ Her iki proje grubu, ilgili alanlarda temel kavramların pekiştirilmesi ve prat
 
 ---
 
+# [EN]
 # Machine Learning & Deep Learning Project
 
 ## 📌 Project Overview
