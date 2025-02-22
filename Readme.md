@@ -71,6 +71,12 @@ pip install -r requirements.txt
 - **Açıklama:**  
   Transfer öğrenme yöntemiyle, önceden eğitilmiş derin öğrenme modelleri X-ray görüntüleri üzerinden akciğer hastalıklarının veya anormalliklerinin tespiti için kullanılır. Model, hızlı adaptasyon ve yüksek doğrulukla sonuç üretmeye odaklanmıştır.
 
+
+### [ResNetTransformingMedicalImageClassifier/](https://github.com/theharuun/MachineLearning_DeepLearning_Project/blob/main/ResNetTransformingMedicalImageClassifier/main.ipynb)
+- **Açıklama:**  
+  Transfer öğrenme yöntemiyle, önceden eğitilmiş derin öğrenme modelleri üzerinden sınıflandırma katmanını kendimizin oluşturmasıyla vitamin ve ilaçların sınıflandırması yapılmıştır.
+  Transforming Model olarak ResNet50 modeli kullanılmıştır.
+
 ---
 
 Her iki proje grubu, ilgili alanlarda temel kavramların pekiştirilmesi ve pratik uygulamaların geliştirilmesi için zengin örnekler sunmaktadır. İlgili kodlar, veri setleri ve ek dokümantasyonlar projelerin iç dizinlerinde yer almaktadır.
@@ -150,6 +156,12 @@ pip install -r requirements.txt
 - **Description:**
     With the transfer learning method, pre-trained deep learning models are used to detect lung diseases or abnormalities on X-ray images. The model focuses on fast adaptation and high accuracy.
 
+
+### [ResNetTransformingMedicalImageClassifier/](https://github.com/theharuun/MachineLearning_DeepLearning_Project/blob/main/ResNetTransformingMedicalImageClassifier/main.ipynb)
+- **Description:**
+    Classification of vitamins and drugs was made by creating the classification layer ourselves from pre-trained deep learning models with the transfer learning method.
+    ResNet50 model was used as the Transforming Model.
+    
 ---
 
 Both project groups provide rich examples for reinforcing basic concepts and developing practical applications in the relevant fields. Related codes, datasets and additional documentation are located in the internal directories of the projects.
