@@ -77,6 +77,11 @@ pip install -r requirements.txt
   Transfer öğrenme yöntemiyle, önceden eğitilmiş derin öğrenme modelleri üzerinden sınıflandırma katmanını kendimizin oluşturmasıyla vitamin ve ilaçların sınıflandırması yapılmıştır.
   Transforming Model olarak ResNet50 modeli kullanılmıştır.
 
+
+### [ANN-Personalized-Tratment-Classing/](https://github.com/theharuun/MachineLearning_DeepLearning_Project/blob/main/ANN-Personalized-Tratment-Classing/kisisellestirilmistedavi.ipynb)
+- **Description:**
+    Rastgele sağlık değerleri oluşturulup yeni sütunlar eklenerek bir dataframe hazırlandı, bu veri üzerinde yapay sinir ağı ile model eğitimi gerçekleştirildi, elde edilen model görselleştirilip değerlendirildi ve overfitting durumunda ekstra çalışmayı önlemek amacıyla EarlyStopping yöntemi ile erken durdurma işlemi uygulandı.
+
 ---
 
 Her iki proje grubu, ilgili alanlarda temel kavramların pekiştirilmesi ve pratik uygulamaların geliştirilmesi için zengin örnekler sunmaktadır. İlgili kodlar, veri setleri ve ek dokümantasyonlar projelerin iç dizinlerinde yer almaktadır.
@@ -161,6 +166,11 @@ pip install -r requirements.txt
 - **Description:**
     Classification of vitamins and drugs was made by creating the classification layer ourselves from pre-trained deep learning models with the transfer learning method.
     ResNet50 model was used as the Transforming Model.
+    
+
+### [ANN-Personalized-Tratment-Classing/](https://github.com/theharuun/MachineLearning_DeepLearning_Project/blob/main/ANN-Personalized-Tratment-Classing/kisisellestirilmistedavi.ipynb)
+- **Description:**
+    A data frame is prepared by creating random health values ​​and adding new columns, model training is done on this data with an artificial neural network, the obtained model is visualized and evaluated, and the early stopping process is stopped with the EarlyStopping method for extra protection in case of overfitting.
     
 ---
 
