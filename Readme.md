@@ -82,6 +82,11 @@ pip install -r requirements.txt
 - **Description:**
     Rastgele sağlık değerleri oluşturulup yeni sütunlar eklenerek bir dataframe hazırlandı, bu veri üzerinde yapay sinir ağı ile model eğitimi gerçekleştirildi, elde edilen model görselleştirilip değerlendirildi ve overfitting durumunda ekstra çalışmayı önlemek amacıyla EarlyStopping yöntemi ile erken durdurma işlemi uygulandı.
 
+
+### [EfficientNet-Eye-Disease-Detection/](https://github.com/theharuun/MachineLearning_DeepLearning_Project/blob/main/EfficientNet-Eye-Disease-Detection/main.ipynb)
+- **Description:**
+    Kaagleda bulunan göz veri seti üzerinde EfficentNetB2 transfer modelini kullanarak parametre iyileştirilmeleri yapılarak elimizdeki veri seti üzerinde göz hastalıkları sınıflandırması tamamlandı yüzde 80 başarı elde edildi.
+
 ---
 
 Her iki proje grubu, ilgili alanlarda temel kavramların pekiştirilmesi ve pratik uygulamaların geliştirilmesi için zengin örnekler sunmaktadır. İlgili kodlar, veri setleri ve ek dokümantasyonlar projelerin iç dizinlerinde yer almaktadır.
@@ -171,6 +176,11 @@ pip install -r requirements.txt
 ### [ANN-Personalized-Tratment-Classing/](https://github.com/theharuun/MachineLearning_DeepLearning_Project/blob/main/ANN-Personalized-Tratment-Classing/kisisellestirilmistedavi.ipynb)
 - **Description:**
     A data frame is prepared by creating random health values ​​and adding new columns, model training is done on this data with an artificial neural network, the obtained model is visualized and evaluated, and the early stopping process is stopped with the EarlyStopping method for extra protection in case of overfitting.
+
+
+### [EfficientNet-Eye-Disease-Detection/](https://github.com/theharuun/MachineLearning_DeepLearning_Project/blob/main/EfficientNet-Eye-Disease-Detection/main.ipynb)
+- **Description:**
+    By using the EfficentNetB2 transfer model on the eye data set in Kaagle, parameter improvements were made and the eye disease classification was completed on the data set we have, 80 percent success was achieved.
     
 ---
 
