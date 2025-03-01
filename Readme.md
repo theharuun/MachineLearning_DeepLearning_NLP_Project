@@ -22,6 +22,10 @@ pip install -r requirements.txt
 
 ## 🤖 Makine Öğrenimi Projeleri
 
+### [Spark-ML/](https://github.com/theharuun/MachineLearning_DeepLearning_Project/blob/main/Spark-ML/spark_regresyon.ipynb)
+- **Açıklama:**  
+  Spark kullanarak california evleri üzerinde fiyat tahmini yapan regresyon modeli kuruldu.
+
 ### [ClustringKmeans/](https://github.com/theharuun/MachineLearning_DeepLearning_Project/blob/main/ClusteringKmeans/kMeans.ipynb)
 - **Açıklama:**  
   K-Means algoritması kullanılarak veri kümesi üzerinde sınıflandırma modelleri geliştirilir. Verilerin benzerliklerine göre gruplandırılması sağlanarak, denetimli öğrenme yöntemleriyle model performansının artırılması hedeflenir.
@@ -79,12 +83,12 @@ pip install -r requirements.txt
 
 
 ### [ANN-Personalized-Tratment-Classing/](https://github.com/theharuun/MachineLearning_DeepLearning_Project/blob/main/ANN-Personalized-Tratment-Classing/kisisellestirilmistedavi.ipynb)
-- **Description:**
+- **Açıklama:**
     Rastgele sağlık değerleri oluşturulup yeni sütunlar eklenerek bir dataframe hazırlandı, bu veri üzerinde yapay sinir ağı ile model eğitimi gerçekleştirildi, elde edilen model görselleştirilip değerlendirildi ve overfitting durumunda ekstra çalışmayı önlemek amacıyla EarlyStopping yöntemi ile erken durdurma işlemi uygulandı.
 
 
 ### [EfficientNet-Eye-Disease-Detection/](https://github.com/theharuun/MachineLearning_DeepLearning_Project/blob/main/EfficientNet-Eye-Disease-Detection/main.ipynb)
-- **Description:**
+- **Açıklama:**
     Kaagleda bulunan göz veri seti üzerinde EfficentNetB2 transfer modelini kullanarak parametre iyileştirilmeleri yapılarak elimizdeki veri seti üzerinde göz hastalıkları sınıflandırması tamamlandı yüzde 80 başarı elde edildi.
 
 ---
@@ -117,6 +121,10 @@ pip install -r requirements.txt
 ## 📂 Project Structure
 
 ## 🤖 Machine Learning Projects
+
+### [Spark-ML/](https://github.com/theharuun/MachineLearning_DeepLearning_Project/blob/main/Spark-ML/spark_regresyon.ipynb)
+- **Description:**
+  A regression model that estimates prices on California houses was established using Spark.
 
 ### [ClustringKmeans/](](https://github.com/theharuun/MachineLearning_DeepLearning_Project/blob/main/ClusteringKmeans/kMeans.ipynb))
 - **Description:**
