@@ -103,6 +103,11 @@ pip install -r requirements.txt
 - **Açıklama:**
     Githubda bulunan beyaz perde film sitesindeki TÜRKÇE yorumların doğal dil işleme ile sınıflandırılması yapılmıştır  .
 
+### [Sentiment-Anaylisis-In-Nlp-Model-With-Rnn/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Sentiment-Anaylisis-In-Nlp-Model-With-Rnn/main.ipynb)
+- **Açıklama:**
+    ChatGtp ile üretilen veri seti üzerinde duygu analizi yapıldı bu kısımda rnn modeli kullanıldı  .
+
+
 
 ---
 
@@ -215,6 +220,12 @@ pip install -r requirements.txt
 ### [Turkish-Text-Project-NLP/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Turkish-Text-Project-NLP/main.ipynb)
 - **Description:**
     TURKISH comments on the white screen movie site on Github were classified using natural language processing.
+
+### [Sentiment-Anaylisis-In-Nlp-Model-With-Rnn/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Sentiment-Anaylisis-In-Nlp-Model-With-Rnn/main.ipynb)
+- **Description:**
+Sentiment analysis was performed on the dataset generated with ChatGtp and this adjustment was made and the rnn model was saved.
+
+
 ---
 
 Project groups provide rich examples for reinforcing basic concepts and developing practical applications in the relevant fields. Related codes, datasets and additional documentation are located in the internal directories of the projects.
