@@ -95,7 +95,7 @@ pip install -r requirements.txt
 
 ## 🤖 Doğal Dil İşleme Projeleri
 
-### [IMDB-Classification/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/IMDB-Classification/main.ipynb)
+### [IMDB-Classification-nlp/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/IMDB-Classification/main.ipynb)
 - **Açıklama:**
     Kaagleda bulunan IMDM yorumları veri seti üzerinde doğal dil işleme ile sınıflandırma işlemi yapıldı .
 
@@ -202,7 +202,7 @@ pip install -r requirements.txt
 
 ## 🤖 Natural Language Processing Projects
 
-### [IMDB-Classification/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/IMDB-Classification/main.ipynb)
+### [IMDB-Classification-nlp/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/IMDB-Classification/main.ipynb)
 - **Description:**
     A classification process was performed using natural language processing on the IMDM comments dataset found on Kaagle. 
 
