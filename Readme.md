@@ -1,5 +1,5 @@
 # [TR]
-# Makine Öğrenimi & Derin Öğrenme Projesi & Doğal Dil İşleme (NLP)
+# Makine Öğrenimi & Derin Öğrenme & Doğal Dil İşleme (NLP) Projeleri
 
 ## 📌 Proje Genel Bakış
 Bu depo, farklı yapay zeka tekniklerini keşfeden çeşitli Makine Öğrenimi , Derin Öğrenme ve Doğal Dil İşleme projelerini içerir. Amaç, ML ve DL kavramlarını yapılandırılmış ve pratik bir şekilde uygulamaktır.
@@ -95,9 +95,14 @@ pip install -r requirements.txt
 
 ## 🤖 Doğal Dil İşleme Projeleri
 
-### [IMDB-Classification-nlp/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/IMDB-Classification/main.ipynb)
+### [IMDB-Classification-nlp/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/IMDB-Classification-nlp/main.ipynb)
 - **Açıklama:**
     Kaagleda bulunan IMDM yorumları veri seti üzerinde doğal dil işleme ile sınıflandırma işlemi yapıldı .
+
+### [Turkish-Text-Project-NLP/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Turkish-Text-Project-NLP/main.ipynb)
+- **Açıklama:**
+    Githubda bulunan beyaz perde film sitesindeki TÜRKÇE yorumların doğal dil işleme ile sınıflandırılması yapılmıştır  .
+
 
 ---
 
@@ -109,7 +114,7 @@ Her proje grubu, ilgili alanlarda temel kavramların pekiştirilmesi ve pratik u
 ---
 
 # [EN]
-# Machine Learning & Deep Learning Project & Natural Language Processing (NLP)
+# Machine Learning & Deep Learning  & Natural Language Processing (NLP) Projects
 
 ## 📌 Project Overview
 This repository contains various Machine Learning , Deep Learning and Natural Language Processing (NLP) projects that explore different AI techniques. The goal is to provide structured and practical implementations of ML and DL concepts.
@@ -202,10 +207,14 @@ pip install -r requirements.txt
 
 ## 🤖 Natural Language Processing Projects
 
-### [IMDB-Classification-nlp/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/IMDB-Classification/main.ipynb)
+### [IMDB-Classification-nlp/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/IMDB-Classification-nlp/main.ipynb)
 - **Description:**
     A classification process was performed using natural language processing on the IMDM comments dataset found on Kaagle. 
 
+
+### [Turkish-Text-Project-NLP/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Turkish-Text-Project-NLP/main.ipynb)
+- **Description:**
+    TURKISH comments on the white screen movie site on Github were classified using natural language processing.
 ---
 
 Project groups provide rich examples for reinforcing basic concepts and developing practical applications in the relevant fields. Related codes, datasets and additional documentation are located in the internal directories of the projects.
