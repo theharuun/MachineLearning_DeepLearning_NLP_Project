@@ -107,7 +107,9 @@ pip install -r requirements.txt
 - **Açıklama:**
     ChatGtp ile üretilen veri seti üzerinde duygu analizi yapıldı bu kısımda rnn modeli kullanıldı  .
 
-
+### [Clinical-Test-Classification-NLP/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Clinical-Test-Classification-NLP/main.ipynb)
+- **Açıklama:**
+Hastaların şikâyetlerine ilişkin veri setinde sınıflandırmalar yapılarak NLP kullanılarak tamamlandı.
 
 ---
 
@@ -224,6 +226,11 @@ pip install -r requirements.txt
 ### [Sentiment-Anaylisis-In-Nlp-Model-With-Rnn/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Sentiment-Anaylisis-In-Nlp-Model-With-Rnn/main.ipynb)
 - **Description:**
 Sentiment analysis was performed on the dataset generated with ChatGtp and this adjustment was made and the rnn model was saved.
+
+### [Clinical-Test-Classification-NLP/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Clinical-Test-Classification-NLP/main.ipynb)
+- **Description:**
+Classifications were worked on in the dataset of patients' complaints and completed using NLP.
+
 
 
 ---
