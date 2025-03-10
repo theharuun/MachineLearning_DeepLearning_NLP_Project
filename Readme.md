@@ -91,6 +91,10 @@ pip install -r requirements.txt
 - **Açıklama:**
     Kaagleda bulunan göz veri seti üzerinde EfficentNetB2 transfer modelini kullanarak parametre iyileştirilmeleri yapılarak elimizdeki veri seti üzerinde göz hastalıkları sınıflandırması tamamlandı yüzde 80 başarı elde edildi.
 
+
+### [CNN-CIFAR10/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/CNN-CIFAR10/main.ipynb)
+- **Açıklama:**
+    Tensorflow ile kerastan CIFAR veri seti üzerinde evrişimli sinir ağı modeli ile sınıflandırma projesi yapıldı
 ---
 
 ## 🤖 Doğal Dil İşleme Projeleri
@@ -210,6 +214,11 @@ pip install -r requirements.txt
 - **Description:**
     By using the EfficentNetB2 transfer model on the eye data set in Kaagle, parameter improvements were made and the eye disease classification was completed on the data set we have, 80 percent success was achieved.
     
+
+### [CNN-CIFAR10/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/CNN-CIFAR10/main.ipynb)
+- **Description:**
+A classification project was done with a convolutional neural network model on the Kerastan CIFAR dataset using Tensorflow
+
 ---
 
 ## 🤖 Natural Language Processing Projects
