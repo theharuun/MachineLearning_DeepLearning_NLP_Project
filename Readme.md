@@ -62,56 +62,56 @@ pip install -r requirements.txt
 
 ## 🧠 Derin Öğrenme Projeleri
 
-### [Cnn_Mnist_Dataset_Deep_Learning/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Cnn_Mnist_Dataset_Deep_Learning/app.ipynb)
+### [Cnn_Mnist_Dataset_Deep_Learning/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Deep%20Learning/Cnn_Mnist_Dataset_Deep_Learning/app.ipynb)
 - **Açıklama:**  
   MNIST el yazısı rakamlar veri seti kullanılarak, Evrişimli Sinir Ağı (CNN) modeli eğitilir. Görüntü sınıflandırması amacıyla farklı katmanlar ve filtreleme yöntemleri uygulanır.
 
-### [TensorMedImageClassifier/]()
+### [TensorMedImageClassifier/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Deep%20Learning/TensorMedImageClassifier/main.ipynb)
 - **Açıklama:**  
   TensorFlow tabanlı bir ortamda geliştirilen bu projede, evrişimli sinir ağı (CNN) mimarisi kullanılarak zaman serisi verilerinin tahmini gerçekleştirilir.  
 
 
-### [X-Ray-Akciger/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/X-Ray-Akciger/akciger_kanser_tespit.ipynb)
+### [X-Ray-Akciger/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Deep%20Learning/X-Ray-Akciger/akciger_kanser_tespit.ipynb)
 - **Açıklama:**  
   Transfer öğrenme yöntemiyle, önceden eğitilmiş derin öğrenme modelleri X-ray görüntüleri üzerinden akciğer hastalıklarının veya anormalliklerinin tespiti için kullanılır. Model, hızlı adaptasyon ve yüksek doğrulukla sonuç üretmeye odaklanmıştır.
 
 
-### [ResNetTransformingMedicalImageClassifier/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/ResNetTransformingMedicalImageClassifier/main.ipynb)
+### [ResNetTransformingMedicalImageClassifier/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Deep%20Learning/ResNetTransformingMedicalImageClassifier/main.ipynb)
 - **Açıklama:**  
   Transfer öğrenme yöntemiyle, önceden eğitilmiş derin öğrenme modelleri üzerinden sınıflandırma katmanını kendimizin oluşturmasıyla vitamin ve ilaçların sınıflandırması yapılmıştır.
   Transforming Model olarak ResNet50 modeli kullanılmıştır.
 
 
-### [ANN-Personalized-Tratment-Classing/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/ANN-Personalized-Tratment-Classing/kisisellestirilmistedavi.ipynb)
+### [ANN-Personalized-Tratment-Classing/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Deep%20Learning/ANN-Personalized-Tratment-Classing/kisisellestirilmistedavi.ipynb)
 - **Açıklama:**
     Rastgele sağlık değerleri oluşturulup yeni sütunlar eklenerek bir dataframe hazırlandı, bu veri üzerinde yapay sinir ağı ile model eğitimi gerçekleştirildi, elde edilen model görselleştirilip değerlendirildi ve overfitting durumunda ekstra çalışmayı önlemek amacıyla EarlyStopping yöntemi ile erken durdurma işlemi uygulandı.
 
 
-### [EfficientNet-Eye-Disease-Detection/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/EfficientNet-Eye-Disease-Detection/main.ipynb)
+### [EfficientNet-Eye-Disease-Detection/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Deep%20Learning/EfficientNet-Eye-Disease-Detection/main.ipynb)
 - **Açıklama:**
     Kaagleda bulunan göz veri seti üzerinde EfficentNetB2 transfer modelini kullanarak parametre iyileştirilmeleri yapılarak elimizdeki veri seti üzerinde göz hastalıkları sınıflandırması tamamlandı yüzde 80 başarı elde edildi.
 
 
-### [CNN-CIFAR10/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/CNN-CIFAR10/main.ipynb)
+### [CNN-CIFAR10/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Deep%20Learning/CNN-CIFAR10/main.ipynb)
 - **Açıklama:**
     Tensorflow ile kerastan CIFAR veri seti üzerinde evrişimli sinir ağı modeli ile sınıflandırma projesi yapıldı
 ---
 
 ## 🤖 Doğal Dil İşleme Projeleri
 
-### [IMDB-Classification-nlp/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/IMDB-Classification-nlp/main.ipynb)
+### [IMDB-Classification-nlp/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Natural%20Language%20Processing%20(NLP)/IMDB-Classification-nlp/main.ipynb)
 - **Açıklama:**
     Kaagleda bulunan IMDM yorumları veri seti üzerinde doğal dil işleme ile sınıflandırma işlemi yapıldı .
 
-### [Turkish-Text-Project-NLP/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Turkish-Text-Project-NLP/main.ipynb)
+### [Turkish-Text-Project-NLP/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Natural%20Language%20Processing%20(NLP)/Turkish-Text-Project-NLP/main.ipynb)
 - **Açıklama:**
     Githubda bulunan beyaz perde film sitesindeki TÜRKÇE yorumların doğal dil işleme ile sınıflandırılması yapılmıştır  .
 
-### [Sentiment-Anaylisis-In-Nlp-Model-With-Rnn/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Sentiment-Anaylisis-In-Nlp-Model-With-Rnn/main.ipynb)
+### [Sentiment-Anaylisis-In-Nlp-Model-With-Rnn/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Natural%20Language%20Processing%20(NLP)/Sentiment-Anaylisis-In-Nlp-Model-With-Rnn/main.ipynb)
 - **Açıklama:**
     ChatGtp ile üretilen veri seti üzerinde duygu analizi yapıldı bu kısımda rnn modeli kullanıldı  .
 
-### [Clinical-Test-Classification-NLP/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Clinical-Test-Classification-NLP/main.ipynb)
+### [Clinical-Test-Classification-NLP/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Natural%20Language%20Processing%20(NLP)/Clinical-Test-Classification-NLP/main.ipynb)
 - **Açıklama:**
 Hastaların şikâyetlerine ilişkin veri setinde sınıflandırmalar yapılarak NLP kullanılarak tamamlandı.
 
@@ -186,36 +186,36 @@ pip install -r requirements.txt
 
 ## 🧠 Deep Learning Projects
 
-### [Cnn_Mnist_Dataset_Deep_Learning/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Cnn_Mnist_Dataset_Deep_Learning/app.ipynb)
+### [Cnn_Mnist_Dataset_Deep_Learning/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Deep%20Learning/Cnn_Mnist_Dataset_Deep_Learning/app.ipynb)
 - **Description:**
     Using the MNIST handwritten digits dataset, a Convolutional Neural Network (CNN) model is trained. Different layers and filtering methods are applied for image classification.
 
-### [TensorMedImageClassifier/]()
+### [TensorMedImageClassifier/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Deep%20Learning/TensorMedImageClassifier/main.ipynb)
 - **Description:**
     In this project developed in a TensorFlow-based environment, time series data is predicted using the convolutional neural network (CNN) architecture.
 
-### [X-Ray-Lung/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/X-Ray-Akciger/akciger_kanser_tespit.ipynb)
+### [X-Ray-Lung/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Deep%20Learning/X-Ray-Akciger/akciger_kanser_tespit.ipynb)
 - **Description:**
     With the transfer learning method, pre-trained deep learning models are used to detect lung diseases or abnormalities on X-ray images. The model focuses on fast adaptation and high accuracy.
 
 
-### [ResNetTransformingMedicalImageClassifier/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/ResNetTransformingMedicalImageClassifier/main.ipynb)
+### [ResNetTransformingMedicalImageClassifier/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Deep%20Learning/ResNetTransformingMedicalImageClassifier/main.ipynb)
 - **Description:**
     Classification of vitamins and drugs was made by creating the classification layer ourselves from pre-trained deep learning models with the transfer learning method.
     ResNet50 model was used as the Transforming Model.
     
 
-### [ANN-Personalized-Tratment-Classing/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/ANN-Personalized-Tratment-Classing/kisisellestirilmistedavi.ipynb)
+### [ANN-Personalized-Tratment-Classing/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Deep%20Learning/ANN-Personalized-Tratment-Classing/kisisellestirilmistedavi.ipynb)
 - **Description:**
     A data frame is prepared by creating random health values ​​and adding new columns, model training is done on this data with an artificial neural network, the obtained model is visualized and evaluated, and the early stopping process is stopped with the EarlyStopping method for extra protection in case of overfitting.
 
 
-### [EfficientNet-Eye-Disease-Detection/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/EfficientNet-Eye-Disease-Detection/main.ipynb)
+### [EfficientNet-Eye-Disease-Detection/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Deep%20Learning/EfficientNet-Eye-Disease-Detection/main.ipynb)
 - **Description:**
     By using the EfficentNetB2 transfer model on the eye data set in Kaagle, parameter improvements were made and the eye disease classification was completed on the data set we have, 80 percent success was achieved.
     
 
-### [CNN-CIFAR10/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/CNN-CIFAR10/main.ipynb)
+### [CNN-CIFAR10/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Deep%20Learning/CNN-CIFAR10/main.ipynb)
 - **Description:**
 A classification project was done with a convolutional neural network model on the Kerastan CIFAR dataset using Tensorflow
 
@@ -223,20 +223,20 @@ A classification project was done with a convolutional neural network model on t
 
 ## 🤖 Natural Language Processing Projects
 
-### [IMDB-Classification-nlp/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/IMDB-Classification-nlp/main.ipynb)
+### [IMDB-Classification-nlp/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Natural%20Language%20Processing%20(NLP)/IMDB-Classification-nlp/main.ipynb)
 - **Description:**
     A classification process was performed using natural language processing on the IMDM comments dataset found on Kaagle. 
 
 
-### [Turkish-Text-Project-NLP/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Turkish-Text-Project-NLP/main.ipynb)
+### [Turkish-Text-Project-NLP/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Natural%20Language%20Processing%20(NLP)/Turkish-Text-Project-NLP/main.ipynb)
 - **Description:**
     TURKISH comments on the white screen movie site on Github were classified using natural language processing.
 
-### [Sentiment-Anaylisis-In-Nlp-Model-With-Rnn/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Sentiment-Anaylisis-In-Nlp-Model-With-Rnn/main.ipynb)
+### [Sentiment-Anaylisis-In-Nlp-Model-With-Rnn/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Natural%20Language%20Processing%20(NLP)/Sentiment-Anaylisis-In-Nlp-Model-With-Rnn/main.ipynb)
 - **Description:**
 Sentiment analysis was performed on the dataset generated with ChatGtp and this adjustment was made and the rnn model was saved.
 
-### [Clinical-Test-Classification-NLP/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Clinical-Test-Classification-NLP/main.ipynb)
+### [Clinical-Test-Classification-NLP/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Natural%20Language%20Processing%20(NLP)/Clinical-Test-Classification-NLP/main.ipynb)
 - **Description:**
 Classifications were worked on in the dataset of patients' complaints and completed using NLP.
 
