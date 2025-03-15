@@ -58,6 +58,10 @@ pip install -r requirements.txt
 - **Açıklama:**  
   Destek Vektör Makinesi (SVM) ve En Yakın Komşu (KNN) algoritmalarının kullanıldığı veri madenciliği projeleridir. Farklı algoritmaların karşılaştırılmasıyla, hangi yöntemin veriye daha uygun olduğu ve en iyi performansı sunduğu belirlenmeye çalışılır.
 
+### [Bank_Customer_Churn_LR/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/Bank_Customer_Churn_LR/main.ipynb)
+- **Description:**
+   Bu proje, makine öğrenimi teknikleri, özellikle Lojistik Regresyon ve Rastgele Orman kullanarak müşteri kaybını tahmin etmeye odaklanıyor. Özellik mühendisliği uygulayarak, sınıf dengesizliğini ele alarak ve hiperparametreleri optimize ederek, hangi modelin kaybı tahmin etmede en iyi performansı gösterdiğini belirlemeyi amaçlıyoruz. Sonuçlar, dengeli ve etkili bir tahmin modeli sağlamak için doğruluk, geri çağırma ve kesinlik kullanılarak değerlendirilir.
+
 ---
 
 ## 🧠 Derin Öğrenme Projeleri
@@ -181,6 +185,10 @@ pip install -r requirements.txt
 ### [svm_knn_data_mining/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/svm_knn_data_mining)
 - **Description:**
     These are data mining projects using Support Vector Machine (SVM) and Nearest Neighbor (KNN) algorithms. By comparing different algorithms, it is tried to determine which method is more suitable for the data and provides the best performance.
+
+### [Bank_Customer_Churn_LR/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/Bank_Customer_Churn_LR/main.ipynb)
+- **Description:**
+    This project focuses on predicting customer churn using machine learning techniques, specifically Logistic Regression and Random Forest. By applying feature engineering, addressing class imbalance, and optimizing hyperparameters, we aim to determine which model performs best in predicting churn. The results are evaluated using accuracy, recall, and precision to provide a balanced and effective prediction model.
 
 ---
 
