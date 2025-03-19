@@ -62,6 +62,12 @@ pip install -r requirements.txt
 - **Description:**
    Bu proje, makine öğrenimi teknikleri, özellikle Lojistik Regresyon ve Rastgele Orman kullanarak müşteri kaybını tahmin etmeye odaklanıyor. Özellik mühendisliği uygulayarak, sınıf dengesizliğini ele alarak ve hiperparametreleri optimize ederek, hangi modelin kaybı tahmin etmede en iyi performansı gösterdiğini belirlemeyi amaçlıyoruz. Sonuçlar, dengeli ve etkili bir tahmin modeli sağlamak için doğruluk, geri çağırma ve kesinlik kullanılarak değerlendirilir.
 
+### [Credict_Score_Classification/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/Credict_Score_Classification/main.ipynb)
+- **Description:**
+    This project focuses on classifying credit scores based on customers’ information using machine learning techniques, specifically Random Forest. By applying feature engineering, addressing class imbalance, and optimizing hyperparameters, we aim to determine which model performs best in predicting loss. The results are evaluated using accuracy, recall, and precision to provide a balanced and effective prediction model.
+
+    **Not: Veri setine kodun içerisinden erişebilirsiniz.**
+
 ---
 
 ## 🧠 Derin Öğrenme Projeleri
@@ -117,7 +123,7 @@ pip install -r requirements.txt
 
 ### [Clinical-Test-Classification-NLP/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Natural%20Language%20Processing%20(NLP)/Clinical-Test-Classification-NLP/main.ipynb)
 - **Açıklama:**
-Hastaların şikâyetlerine ilişkin veri setinde sınıflandırmalar yapılarak NLP kullanılarak tamamlandı.
+    Hastaların şikâyetlerine ilişkin veri setinde sınıflandırmalar yapılarak NLP kullanılarak tamamlandı.
 
 ---
 
@@ -189,6 +195,13 @@ pip install -r requirements.txt
 ### [Bank_Customer_Churn_LR/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/Bank_Customer_Churn_LR/main.ipynb)
 - **Description:**
     This project focuses on predicting customer churn using machine learning techniques, specifically Logistic Regression and Random Forest. By applying feature engineering, addressing class imbalance, and optimizing hyperparameters, we aim to determine which model performs best in predicting churn. The results are evaluated using accuracy, recall, and precision to provide a balanced and effective prediction model.
+
+
+### [Credict_Score_Classification/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/Credict_Score_Classification/main.ipynb)
+- **Description:**
+    This project focuses on classifying credit scores based on customers’ information using machine learning techniques, specifically Random Forest. By applying feature engineering, addressing class imbalance, and optimizing hyperparameters, we aim to determine which model performs best in predicting loss. The results are evaluated using accuracy, recall, and precision to provide a balanced and effective prediction model.
+
+    **Note: You can access the dataset code from within.**
 
 ---
 
