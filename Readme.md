@@ -59,14 +59,22 @@ pip install -r requirements.txt
   Destek Vektör Makinesi (SVM) ve En Yakın Komşu (KNN) algoritmalarının kullanıldığı veri madenciliği projeleridir. Farklı algoritmaların karşılaştırılmasıyla, hangi yöntemin veriye daha uygun olduğu ve en iyi performansı sunduğu belirlenmeye çalışılır.
 
 ### [Bank_Customer_Churn_LR/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/Bank_Customer_Churn_LR/main.ipynb)
-- **Description:**
+- **Açıklama:**
    Bu proje, makine öğrenimi teknikleri, özellikle Lojistik Regresyon ve Rastgele Orman kullanarak müşteri kaybını tahmin etmeye odaklanıyor. Özellik mühendisliği uygulayarak, sınıf dengesizliğini ele alarak ve hiperparametreleri optimize ederek, hangi modelin kaybı tahmin etmede en iyi performansı gösterdiğini belirlemeyi amaçlıyoruz. Sonuçlar, dengeli ve etkili bir tahmin modeli sağlamak için doğruluk, geri çağırma ve kesinlik kullanılarak değerlendirilir.
 
 ### [Credict_Score_Classification/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/Credict_Score_Classification/main.ipynb)
-- **Description:**
-    This project focuses on classifying credit scores based on customers’ information using machine learning techniques, specifically Random Forest. By applying feature engineering, addressing class imbalance, and optimizing hyperparameters, we aim to determine which model performs best in predicting loss. The results are evaluated using accuracy, recall, and precision to provide a balanced and effective prediction model.
+- **Açıklama:**
+    Bu proje, makine öğrenimi teknikleri, özellikle Rastgele Orman kullanarak müşterilerin bilgilerine göre kredi puanlarını sınıflandırmaya odaklanmaktadır. Özellik mühendisliği uygulayarak, sınıf dengesizliğini ele alarak ve hiperparametreleri optimize ederek, hangi modelin kaybı tahmin etmede en iyi performansı gösterdiğini belirlemeyi amaçlıyoruz. Sonuçlar, dengeli ve etkili bir tahmin modeli sağlamak için doğruluk, geri çağırma ve kesinlik kullanılarak değerlendirilir.
 
     **Not: Veri setine kodun içerisinden erişebilirsiniz.**
+
+### [Vehicle_Insurance_Risk_Estimation/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/Vehicle_Insurance_Risk_Estimation/main.ipynb)
+- **Açıklama:**
+    Bu proje, makine öğrenimi teknikleri, özellikle Random Forest ve XGBoost kullanarak araç özelliklerine dayalı sigorta primini tahmin etmeye odaklanmaktadır. Özellik mühendisliği ve hiperparametre optimizasyonu uygulayarak, hangi modelin sigorta primini en doğru şekilde tahmin ettiğini belirlemeyi amaçlıyoruz.
+
+    Model performansı, Ortalama Karesel Hata (MSE), Ortalama Mutlak Hata (MAE) ve R² puanı gibi regresyon ölçümleri kullanılarak değerlendirilir. Sonuçlar, daha dengeli ve etkili bir sigorta fiyatı tahmin modeli oluşturmak için analiz edilir.
+
+    **Not: Veri seti koduna içeriden erişebilirsiniz.**
 
 ---
 
@@ -196,12 +204,21 @@ pip install -r requirements.txt
 - **Description:**
     This project focuses on predicting customer churn using machine learning techniques, specifically Logistic Regression and Random Forest. By applying feature engineering, addressing class imbalance, and optimizing hyperparameters, we aim to determine which model performs best in predicting churn. The results are evaluated using accuracy, recall, and precision to provide a balanced and effective prediction model.
 
-
 ### [Credict_Score_Classification/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/Credict_Score_Classification/main.ipynb)
 - **Description:**
     This project focuses on classifying credit scores based on customers’ information using machine learning techniques, specifically Random Forest. By applying feature engineering, addressing class imbalance, and optimizing hyperparameters, we aim to determine which model performs best in predicting loss. The results are evaluated using accuracy, recall, and precision to provide a balanced and effective prediction model.
 
     **Note: You can access the dataset code from within.**
+
+### [Vehicle_Insurance_Risk_Estimation/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/Vehicle_Insurance_Risk_Estimation/main.ipynb)
+- **Description:**
+   This project focuses on predicting insurance premium based on vehicle features using machine learning techniques, specifically Random Forest and XGBoost. By applying feature engineering and hyperparameter optimization, we aim to determine which model predicts insurance premium most accurately.
+
+   Model performance is evaluated using regression metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), and R² score. The results are analyzed to create a more balanced and effective insurance price prediction model.
+
+    **Note: You can access the dataset code from within.**
+
+
 
 ---
 
