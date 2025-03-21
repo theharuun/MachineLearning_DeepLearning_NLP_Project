@@ -66,7 +66,7 @@ pip install -r requirements.txt
 - **Açıklama:**
     Bu proje, makine öğrenimi teknikleri, özellikle Rastgele Orman kullanarak müşterilerin bilgilerine göre kredi puanlarını sınıflandırmaya odaklanmaktadır. Özellik mühendisliği uygulayarak, sınıf dengesizliğini ele alarak ve hiperparametreleri optimize ederek, hangi modelin kaybı tahmin etmede en iyi performansı gösterdiğini belirlemeyi amaçlıyoruz. Sonuçlar, dengeli ve etkili bir tahmin modeli sağlamak için doğruluk, geri çağırma ve kesinlik kullanılarak değerlendirilir.
 
-    **Not: Veri setine kodun içerisinden erişebilirsiniz.**
+    **Not: Veri setine ve kodlara proje dizini içerisinden erişebilirsiniz.**
 
 ### [Vehicle_Insurance_Risk_Estimation/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/Vehicle_Insurance_Risk_Estimation/main.ipynb)
 - **Açıklama:**
@@ -74,7 +74,22 @@ pip install -r requirements.txt
 
     Model performansı, Ortalama Karesel Hata (MSE), Ortalama Mutlak Hata (MAE) ve R² puanı gibi regresyon ölçümleri kullanılarak değerlendirilir. Sonuçlar, daha dengeli ve etkili bir sigorta fiyatı tahmin modeli oluşturmak için analiz edilir.
 
-    **Not: Veri seti koduna içeriden erişebilirsiniz.**
+    **Not: Veri setine ve kodlara proje dizini içerisinden erişebilirsiniz.**
+
+### [Segmentation_of_Smartphone_Usage_and_Behavioral/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/Segmentation_of_Smartphone_Usage_and_Behavioral/main.ipynb)
+- **Açıklama:**
+    Bu proje, mobil uygulama kullanıcılarının davranışlarını analiz ederek onları anlamlı segmentlere ayırmayı amaçlamaktadır. Kullanıcıların yaş, ekran süresi, uygulama türlerine harcadıkları süre, cinsiyet ve yaşadıkları şehir gibi veriler kullanılarak segmentasyon yapılır.
+
+    Çalışmada öncelikle veri ön işleme adımları uygulanmış, get_dummies() ile kategorik değişkenler sayısal hale getirilmiş ve ardından StandardScaler ile veriler normalize edilmiştir.
+
+    Segmentasyon işlemi için:
+    KMeans algoritması tercih edilmiş ve Elbow Yöntemi ile en uygun küme sayısı belirlenmiştir.
+    Segmentler analiz edilerek her bir grubun davranışsal özellikleri ortaya çıkarılmıştır.
+    Son olarak, her bir segmentin ilgi alanlarına göre özel reklam stratejileri önerilmiştir (örneğin sosyal medya kullanımı yüksek olanlara influencer kampanyaları, oyun bağımlılarına popüler oyun önerileri gibi).
+    Model ve analiz çıktıları pie chart ve cluster profile tabloları ile görselleştirilmiştir.
+
+    **Not: Veri setine ve kodlara proje dizini içerisinden erişebilirsiniz.**
+  
 
 ---
 
@@ -208,7 +223,7 @@ pip install -r requirements.txt
 - **Description:**
     This project focuses on classifying credit scores based on customers’ information using machine learning techniques, specifically Random Forest. By applying feature engineering, addressing class imbalance, and optimizing hyperparameters, we aim to determine which model performs best in predicting loss. The results are evaluated using accuracy, recall, and precision to provide a balanced and effective prediction model.
 
-    **Note: You can access the dataset code from within.**
+    **Note: You can access the dataset and codes from the project directory.**
 
 ### [Vehicle_Insurance_Risk_Estimation/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/Vehicle_Insurance_Risk_Estimation/main.ipynb)
 - **Description:**
@@ -216,8 +231,23 @@ pip install -r requirements.txt
 
    Model performance is evaluated using regression metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), and R² score. The results are analyzed to create a more balanced and effective insurance price prediction model.
 
-    **Note: You can access the dataset code from within.**
+    **Note: You can access the dataset and codes from the project directory.**
 
+
+### [Segmentation_of_Smartphone_Usage_and_Behavioral/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/Segmentation_of_Smartphone_Usage_and_Behavioral/main.ipynb)
+- **Description:**
+    This project aims to analyze the behavior of mobile application users and divide them into meaningful segments. Segmentation is performed using data such as users' age, screen time, time spent on application types, gender and the city they live in.
+
+    First of all, data preprocessing steps were applied in the study, categorical variables were numericalized with get_dummies() and then the data was normalized with StandardScaler.
+
+    For the segmentation process:
+    The KMeans algorithm was preferred and the most appropriate number of clusters was determined with the Elbow Method.
+    The segments were analyzed and the behavioral characteristics of each group were revealed.
+    Finally, special advertising strategies were suggested according to the interests of each segment (for example, influencer campaigns for those with high social media usage, popular game recommendations for game addicts).
+
+    Model and analysis outputs were visualized with pie charts and cluster profile tables.
+
+    **Note: You can access the dataset and codes from the project directory.**
 
 
 ---
@@ -255,7 +285,7 @@ pip install -r requirements.txt
 
 ### [CNN-CIFAR10/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Deep%20Learning/CNN-CIFAR10/main.ipynb)
 - **Description:**
-A classification project was done with a convolutional neural network model on the Kerastan CIFAR dataset using Tensorflow
+    A classification project was done with a convolutional neural network model on the Kerastan CIFAR dataset using Tensorflow
 
 ---
 
@@ -272,11 +302,11 @@ A classification project was done with a convolutional neural network model on t
 
 ### [Sentiment-Anaylisis-In-Nlp-Model-With-Rnn/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Natural%20Language%20Processing%20(NLP)/Sentiment-Anaylisis-In-Nlp-Model-With-Rnn/main.ipynb)
 - **Description:**
-Sentiment analysis was performed on the dataset generated with ChatGtp and this adjustment was made and the rnn model was saved.
+    Sentiment analysis was performed on the dataset generated with ChatGtp and this adjustment was made and the rnn model was saved.
 
 ### [Clinical-Test-Classification-NLP/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Natural%20Language%20Processing%20(NLP)/Clinical-Test-Classification-NLP/main.ipynb)
 - **Description:**
-Classifications were worked on in the dataset of patients' complaints and completed using NLP.
+    Classifications were worked on in the dataset of patients' complaints and completed using NLP.
 
 
 
