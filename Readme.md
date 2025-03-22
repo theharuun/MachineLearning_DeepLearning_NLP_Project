@@ -128,6 +128,13 @@ pip install -r requirements.txt
 ### [CNN-CIFAR10/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Deep%20Learning/CNN-CIFAR10/main.ipynb)
 - **Açıklama:**
     Tensorflow ile kerastan CIFAR veri seti üzerinde evrişimli sinir ağı modeli ile sınıflandırma projesi yapıldı
+
+
+
+### [CNN-MobileNetV2-Cat-Dog-Classification/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Deep%20Learning/CNN-MobileNetV2-Cat-Dog-Classification/main.ipynb)
+- **Açıklama:**
+    Kedi ve Köpek resimlerini sınıflandırmak için önce kendi cnn modelimizi kurduk lakin başarılı bir model olmadı sonrasında MobilNetV2 transfer ederek hazır modeli kulanarak az veride başarılı bir proje yapıldı.
+
 ---
 
 ## 🤖 Doğal Dil İşleme Projeleri
@@ -286,6 +293,11 @@ pip install -r requirements.txt
 ### [CNN-CIFAR10/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Deep%20Learning/CNN-CIFAR10/main.ipynb)
 - **Description:**
     A classification project was done with a convolutional neural network model on the Kerastan CIFAR dataset using Tensorflow
+
+
+### [CNN-MobileNetV2-Cat-Dog-Classification/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Deep%20Learning/CNN-MobileNetV2-Cat-Dog-Classification/main.ipynb)
+- **Description:**
+    We first created our own CNN model to classify Cat and Dog images, but it was not a successful model, then we transferred it to MobilNetV2 and used the ready model to create a successful project with little data.
 
 ---
 
