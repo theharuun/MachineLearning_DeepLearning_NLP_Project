@@ -133,7 +133,18 @@ pip install -r requirements.txt
 
 ### [CNN-MobileNetV2-Cat-Dog-Classification/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Deep%20Learning/CNN-MobileNetV2-Cat-Dog-Classification/main.ipynb)
 - **Açıklama:**
-    Kedi ve Köpek resimlerini sınıflandırmak için önce kendi cnn modelimizi kurduk lakin başarılı bir model olmadı sonrasında MobilNetV2 transfer ederek hazır modeli kulanarak az veride başarılı bir proje yapıldı.
+    Kedi ve Köpek resimlerini sınıflandırmak için önce kendi cnn modelimizi kurduk lakin başarılı bir model olmadı sonrasında MobilNetV2 transfer ederek hazır modeli kullanarak az veride başarılı bir proje yapıldı.
+
+    **Not: Veri setine ve kodlara proje dizini içerisinden erişebilirsiniz.**
+
+
+### [Anime_Cartoon_Human_Classification/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Deep%20Learning/Anime_Cartoon_Human_Classification/main.ipynb)
+- **Açıklama:**
+    İnsan , Anime ve Çizgi Fİlm resimlerini sınıflandırmak için önce kendi cnn modelimizi kurduk  başarılı bir model oldu %98 başarı yakalandı, sonrasında MobilNetV2 transfer ederek hazır modeli kullanarak daha başarılı bir model yapıldı.
+
+    **Not: Veri setine ve kodlara proje dizini içerisinden erişebilirsiniz.**
+
+
 
 ---
 
@@ -298,6 +309,15 @@ pip install -r requirements.txt
 ### [CNN-MobileNetV2-Cat-Dog-Classification/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Deep%20Learning/CNN-MobileNetV2-Cat-Dog-Classification/main.ipynb)
 - **Description:**
     We first created our own CNN model to classify Cat and Dog images, but it was not a successful model, then we transferred it to MobilNetV2 and used the ready model to create a successful project with little data.
+
+    **Note: You can access the dataset and codes from the project directory.**
+
+
+### [Anime_Cartoon_Human_Classification/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Deep%20Learning/Anime_Cartoon_Human_Classification/main.ipynb)
+- **Explanation:**
+    We first built our own CNN model to classify human, anime and cartoon images, it was a successful model, 98% success was achieved, then a more successful model was made by transferring it to MobilNetV2 and using the ready model.
+
+    **Note: You can access the dataset and codes from the project directory.**
 
 ---
 
