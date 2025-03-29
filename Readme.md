@@ -91,6 +91,11 @@ pip install -r requirements.txt
     **Not: Veri setine ve kodlara proje dizini içerisinden erişebilirsiniz.**
   
 
+### [Face_Detection_OpenCV/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/Face_Detection_OpenCV/main.py)
+- **Açıklama:**
+    Bu proje, webcamde anlık olarak yüz tespiti yapmaya odaklanılmıştır open cv kütüphanesi kullanılmıştır.
+
+
 ---
 
 ## 🧠 Derin Öğrenme Projeleri
@@ -267,6 +272,11 @@ pip install -r requirements.txt
 
     **Note: You can access the dataset and codes from the project directory.**
 
+
+
+### [Face_Detection_OpenCV/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/Face_Detection_OpenCV/main.py)
+- **Description:**
+    On this project , focusing to detect face on webcam in real time using open cv libraries
 
 ---
 
