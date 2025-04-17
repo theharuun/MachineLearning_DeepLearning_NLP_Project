@@ -96,6 +96,11 @@ pip install -r requirements.txt
     Bu proje, webcamde anlık olarak yüz tespiti yapmaya odaklanılmıştır open cv kütüphanesi kullanılmıştır.
 
 
+### [AirpodsDetectionAndFollowing_OpenCV/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/AirpodsDetectionAndFollowing_OpenCV/main.py)
+- **Description:**
+    Bu proje, webcamde anlık olarak airpods tespiti yapmaya odaklanılmıştır open cv kütüphanesi kullanılmıştır.
+
+
 ---
 
 ## 🧠 Derin Öğrenme Projeleri
@@ -278,6 +283,10 @@ pip install -r requirements.txt
 - **Description:**
     On this project , focusing to detect face on webcam in real time using open cv libraries
 
+
+### [AirpodsDetectionAndFollowing_OpenCV/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/AirpodsDetectionAndFollowing_OpenCV/main.py)
+- **Description:**
+    On this project , focusing to detect airpods on webcam in real time using open cv libraries
 ---
 
 ## 🧠 Deep Learning Projects
