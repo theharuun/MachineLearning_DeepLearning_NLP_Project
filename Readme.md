@@ -97,8 +97,15 @@ pip install -r requirements.txt
 
 
 ### [AirpodsDetectionAndFollowing_OpenCV/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/AirpodsDetectionAndFollowing_OpenCV/main.py)
-- **Description:**
+- **Açıklama:**
     Bu proje, webcamde anlık olarak airpods tespiti yapmaya odaklanılmıştır open cv kütüphanesi kullanılmıştır.
+
+
+
+### [MovingObjectDetectionOpenCV/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/MovingObjectDetectionOpenCV/main.py)
+- **Açıklama:**
+    Bu proje, webcamde anlık olarak hareketini takip etmek istediğim nesneyi roi olarak seçip hareketini takip eden minimal proje yapılmıştır.
+
 
 
 ---
@@ -287,6 +294,11 @@ pip install -r requirements.txt
 ### [AirpodsDetectionAndFollowing_OpenCV/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/AirpodsDetectionAndFollowing_OpenCV/main.py)
 - **Description:**
     On this project , focusing to detect airpods on webcam in real time using open cv libraries
+
+
+### [MovingObjectDetectionOpenCV/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/MovingObjectDetectionOpenCV/main.py)
+- **Description:**
+    This project is a minimal project that selects the object whose movement I want to follow instantly on the webcam as roi and follows its movement.
 ---
 
 ## 🧠 Deep Learning Projects
