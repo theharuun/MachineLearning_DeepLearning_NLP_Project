@@ -102,7 +102,7 @@ pip install -r requirements.txt
 
 
 
-### [MovingObjectDetectionOpenCV/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/MovingObjectDetectionOpenCV/main.py)
+### [MovingObjectDetectionOpenCV/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Machine%20Learning/MovingObjectDetectionOpenCV/main.ipynb)
 - **Açıklama:**
     Bu proje, webcamde anlık olarak hareketini takip etmek istediğim nesneyi roi olarak seçip hareketini takip eden minimal proje yapılmıştır.
 
@@ -296,7 +296,7 @@ pip install -r requirements.txt
     On this project , focusing to detect airpods on webcam in real time using open cv libraries
 
 
-### [MovingObjectDetectionOpenCV/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/tree/main/Machine%20Learning/MovingObjectDetectionOpenCV/main.py)
+### [MovingObjectDetectionOpenCV/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Machine%20Learning/MovingObjectDetectionOpenCV/main.ipynb)
 - **Description:**
     This project is a minimal project that selects the object whose movement I want to follow instantly on the webcam as roi and follows its movement.
 ---
