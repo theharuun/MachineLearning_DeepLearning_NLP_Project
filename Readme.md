@@ -183,6 +183,10 @@ pip install -r requirements.txt
 - **Açıklama:**
     Hastaların şikâyetlerine ilişkin veri setinde sınıflandırmalar yapılarak NLP kullanılarak tamamlandı.
 
+### [PDF_READER_STREAMLIT/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Natural%20Language%20Processing%20(NLP)/PDF_READER_STREAMLIT/app.py)
+- **Açıklama:**  
+    Streamlit ile geliştirilmiş, PDF yükleme ve yüklenen içerik hakkında büyük dil modelleri aracılığıyla soru-cevap yapmayı sağlayan etkileşimli bir uygulama.
+    
 ---
 
 Her proje grubu, ilgili alanlarda temel kavramların pekiştirilmesi ve pratik uygulamaların geliştirilmesi için zengin örnekler sunmaktadır. İlgili kodlar, veri setleri ve ek dokümantasyonlar projelerin iç dizinlerinde yer almaktadır.
@@ -371,6 +375,9 @@ pip install -r requirements.txt
 - **Description:**
     Classifications were worked on in the dataset of patients' complaints and completed using NLP.
 
+### [PDF_READER_STREAMLIT/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Natural%20Language%20Processing%20(NLP)/PDF_READER_STREAMLIT/app.py)
+- **Description:**
+    An interactive application developed with Streamlit that enables PDF uploading and Q&A about the uploaded content using large language models.
 
 
 ---
