@@ -187,6 +187,13 @@ pip install -r requirements.txt
 - **Açıklama:**  
     Streamlit ile geliştirilmiş, PDF yükleme ve yüklenen içerik hakkında büyük dil modelleri aracılığıyla soru-cevap yapmayı sağlayan etkileşimli bir uygulama.
     
+
+### [PDF_READER_FASTAPI/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Natural%20Language%20Processing%20(NLP)/PDF_READER_FASTAPI/main.py)
+- **Açıklama:**  
+    Bu proje, **FastAPI** tabanlı bir API servisidir.
+    Kullanıcılar PDF dosyası yükleyebilir ve bu PDF içeriği hakkında sorular sorabilir.
+    Sistem, **LangChain + Ollama + FAISS** kullanarak embedding tabanlı **Retrieval-Augmented Generation (RAG)** mantığında çalışır.
+    
 ---
 
 Her proje grubu, ilgili alanlarda temel kavramların pekiştirilmesi ve pratik uygulamaların geliştirilmesi için zengin örnekler sunmaktadır. İlgili kodlar, veri setleri ve ek dokümantasyonlar projelerin iç dizinlerinde yer almaktadır.
@@ -379,6 +386,13 @@ pip install -r requirements.txt
 - **Description:**
     An interactive application developed with Streamlit that enables PDF uploading and Q&A about the uploaded content using large language models.
 
+
+
+### [PDF_READER_FASTAPI/](https://github.com/theharuun/MachineLearning_DeepLearning_NLP_Project/blob/main/Natural%20Language%20Processing%20(NLP)/PDF_READER_FASTAPI/main.py)
+- **Description:**
+    This project is an API service based on **FastAPI**.
+    Users can upload PDF files and ask questions about their content.
+    The system operates on an embedding-based **Retrieval-Augmented Generation (RAG)** logic using **LangChain + Ollama + FAISS**.
 
 ---
 
