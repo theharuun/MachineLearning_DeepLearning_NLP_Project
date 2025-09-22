@@ -46,11 +46,11 @@ def main():
     if user_input and st.session_state.knowledge_base:
         st.session_state.memory.chat_memory.add_user_message(user_input)
 
-        # Retriever ile context al
+        # take context by Retriever  
         docs = st.session_state.knowledge_base.similarity_search(user_input, k=5)
         context = "\n\n".join([d.page_content for d in docs])
 
-        # Mesajları hazırla
+        # Preparing to the Messeages
         messages = [
             SystemMessage(content=(
                 "Sen bir PDF destek asistanısın. "
@@ -68,10 +68,10 @@ def main():
                 response_text += chunk.content or ""
                 placeholder.markdown(response_text)
 
-            # Cevabı memory'e kaydet
+            # Save the response to in Memory
             st.session_state.memory.chat_memory.add_ai_message(response_text)
 
-    # Sohbet geçmişini yazdır
+    # Print the Chat History
         for msg in st.session_state.memory.chat_memory.messages:
             if isinstance(msg, HumanMessage):
                 with st.chat_message("Kullanıcı"):
